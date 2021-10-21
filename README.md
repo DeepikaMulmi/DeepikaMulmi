@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeepikaMulmi
 - 👀 I’m interested in marketing, social media handling, web development.
 - 🌱 I’m currently learning HTML5, CSS, JS and wordpress.
-- 💞️ I’m looking to collaborate on web developers.
+- 💞️ I’m looking to collaborate with web developers.
 - 📫 How to reach me https://www.linkedin.com/in/deepika-m-235761215/
 
 <!---
