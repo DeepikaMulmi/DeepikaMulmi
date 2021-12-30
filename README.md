@@ -2,7 +2,7 @@
 - 👀 I’m interested in marketing, social media handling, web development.
 - 🌱 Skills: HTML5, CSS, Bootstrap and WordPress.
 - 💞️ I’m looking to collaborate with web developers.
-- 📫 How to reach me https://www.linkedin.com/in/deepika-m-235761215/
+- 📫 How to reach me https://www.linkedin.com/in/m-deepika/
 
 <!---
 DeepikaMulmi/DeepikaMulmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
